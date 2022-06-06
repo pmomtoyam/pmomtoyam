@@ -7,7 +7,7 @@
 
 Bitácota de comandos más usados en clase
 
-ps -aux
-top
-htop
-pstree
+* ps -aux
+* top
+* htop
+* pstree
