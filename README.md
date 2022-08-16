@@ -7,7 +7,4 @@
 
 Bitácota de comandos más usados en clase
 
-* ps -aux
-* top
-* htop
-* pstree
+* ls  (Lista los ficheros de un directorio concreto)
