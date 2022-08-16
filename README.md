@@ -41,3 +41,20 @@ Ordenes para la gestión de permisos:
   passwd nom_usuario  (Crea un usuario y lo agrega a un grupo)
 * deluser nom_usuario  (Elimina un usuario)
 * chmod 777 nom_fichero  (Sa permisos de lectura, escritura y ejecución al fichero)
+
+
+Ordenes para la gestión de Docker:
+* docker create  (Crea un contenedor)
+* docker rename  (Renombra un contenedor)
+* docker run  (Crea y corre un contenedor en una operación)
+* docker rm  (Borra un contenedor)
+* docker update  (Actualiza los recursos de un contenedor)
+* docker start  (Inicia un contenedor)
+* docker stop  (Detiene un contenedor)
+* docker restart  (Detiene e inicia un contenedor)
+* docker kill  (Envía un SIGKILL al contenedor corriendo)
+* docker ps  (Muestra los contenedores corriendo)
+* docker ps -a  (Muestra todos los contenedores)
+* docker logs  (Obtiene los logs de un contenedor)
+* docker events  (Obtiene los eventos de un contenedor)
+* docker images  (Muestra todas las imagenes)
