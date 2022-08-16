@@ -8,7 +8,7 @@
 Bitácota de comandos Debian más usados en clase
 
 Ordenes basicas en terminal:
-* -ls-  (Lista los ficheros de un directorio concreto)
+* /ls/  (Lista los ficheros de un directorio concreto)
 * *cd nom_directorio*  (Cambia de directorio)
 * *mv [ruta1]fichero1 [ruta2]fichero2*  (Mueve y/o renombra un fichero)
 * *rm [archivo o directorio]*  (Elimina archivos o directorios)
