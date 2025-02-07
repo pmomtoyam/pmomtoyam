@@ -1,6 +1,7 @@
 
 
 ## Pabloboset Montoya Marín
-## Est de Ing Informático ULACIT
+##
+## Estudiante de Ingeniería Informática ULACIT
 ## 
 ## 2025
